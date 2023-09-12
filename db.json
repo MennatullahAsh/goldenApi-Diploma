@@ -1,6 +1,6 @@
 {
   "diploma": [
-      {
+    {
       "id": 1,
       "url": "https://f.top4top.io/p_2810t96o61.jpg",
       "title": "تصميم الجرافيك والمونتاج الشاملة",
@@ -17,13 +17,14 @@
         "• مونتاج الصوت (للتعليق الصوتي والإنشاد والغناء وغيرها)",
         "• إنشاء فيديوهات الموشن جرافيك والإنفوجرافيك والإنترو بشكل احترافي",
         "• البرامج التي ستستخدها  : Adobe Photoshop , Adobe illustrator , Adobe InDesign , Adobe After Effects , Adobe premiere , Adobe Audition , CorelDraw ",
-        "• والعديد العديد من المهارات الأخرى",
+        "• والعديد العديد من المهارات الأخرى"
       ],
+      "grant": "ورشة عمل مجانيـة بعنوان (العمل الحر عبر الإنترنت-الفريلانسر) يحصل عليها المتدربون في نهاية الدبلومة",
       "img1": "https://j.top4top.io/p_2810ywmll1.jpg",
       "img2": "https://k.top4top.io/p_28104ngy32.jpg",
-      "img3": "https://i.top4top.io/p_28102sruk4.jpg",
-      },
-      {
+      "img3": "https://i.top4top.io/p_28102sruk4.jpg"
+    },
+    {
       "id": 2,
       "url": "https://l.top4top.io/p_28104xz813.jpg",
       "title": "تصميم المواقع الإلكترونية وصفحات الويب Front-End",
@@ -38,7 +39,7 @@
         "• لا يشترط وجود أي خبرة مسبقة في التصميم أو البرمجة",
         "• لا تتطلب لغة إنجليزية قوية فالإعتماد فقط على بعض المصطلحات",
         "• تسديد الرسوم بالتقسيط وفق آلية مناسبة للجميع",
-        "• لقاءات إضافية في نهاية الدبلومة عن طرق جلب المشاريع والعمل عبر الإنترنت",
+        "• لقاءات إضافية في نهاية الدبلومة عن طرق جلب المشاريع والعمل عبر الإنترنت"
       ],
       "axesOrginal": [
         "HTML",
@@ -47,13 +48,14 @@
         "CSS3",
         "Javascript",
         "JQuery",
-        "Bootstrap",
+        "Bootstrap"
       ],
+      "grant": "ورشة عمل مجانيـة بعنوان (العمل الحر عبر الإنترنت الفريلانسر) يحصل عليها المتدربون في نهاية الدبلومة",
       "img1": "https://k.top4top.io/p_28104ngy32.jpg",
       "img2": "https://d.top4top.io/p_2810m8dao2.jpg",
-      "img3": "https://b.top4top.io/p_2810xneha5.jpg",
-      },
-      {
+      "img3": "https://b.top4top.io/p_2810xneha5.jpg"
+    },
+    {
       "id": 3,
       "url": "https://c.top4top.io/p_2810yzkat1.jpg",
       "title": "برمجة المواقع الإلكترونية PHP+Laravel",
@@ -66,7 +68,7 @@
         "• تطبيق عدة مشاريع كاملة خلال الدبلومة",
         "• نضمن للمتدرب الإستفادة الكاملة عند إنتهاء التدريب",
         "• شهادات معتمدة من وزارة التربية والتعليم العالي",
-        "• تسديد الرسوم يتم وفق آلية تقسيط مناسبة للجميع",
+        "• تسديد الرسوم يتم وفق آلية تقسيط مناسبة للجميع"
       ],
       "axesOrginal": [
         "PHP",
@@ -74,11 +76,11 @@
         "Database with PHP",
         " DataBase with Laravel",
         "GitHub",
-        "Freelancing",
+        "Freelancing"
       ],
       "img1": "https://d.top4top.io/p_2810m8dao2.jpg",
       "img2": "https://f.top4top.io/p_2810gwf2w4.jpg",
-      "img3": "https://i.top4top.io/p_28102sruk4.jpg",
-      },
-   ]
+      "img3": "https://i.top4top.io/p_28102sruk4.jpg"
+    }
+  ]
 }
